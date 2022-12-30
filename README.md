@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 #### Full-stack Software Developer in the Making
 
 - 🌱 I’m currently enrolled at **Microverse** 
-- 🔭 I’m currently working on JavaScript Frameworks such as **React** 
-- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`
+- 🔭 I’m currently working on JavaScript Frameworks such as **React** and programming languages like Java.
+- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`, `java`
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
 - 🌱 Don't hesitate to say Hi
-- ⚡ Fun fact: I am an artist (painting).
 
 <br />
 <h3> 👱 Visitors count </h3>

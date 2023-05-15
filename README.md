@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Full-stack Software Developer in the Making
 
-- 🌱 I’m currently enrolled at **Microverse: Full Stack Software Developer**,  **Alchemy University: Web 3 developer ** and **ALX: Cloud Computing with AWS**
+- 🌱 I’m currently enrolled at **Microverse: Full Stack Software Developer**  **Alchemy University: Web 3 developer ** and **ALX: Cloud Computing with AWS**
 - 🔭 I’m currently working on Frameworks such as **React** **Ruby On Rails** and programming languages like **Java** **Ruby** and **Solidity**.
 - 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`, `java`, RestFul, Solidity 
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.

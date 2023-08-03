@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 #### Full-stack Software Developer in the Making
 
-- 🌱 I’m currently enrolled at **Microverse: Full Stack Software Developer**  **Alchemy University: Web 3 developer ** and **ALX: Cloud Computing with AWS**
-- 🔭 I’m currently working on Frameworks such as **React** **Ruby On Rails** and programming languages like **Java** **Ruby** and **Solidity**.
-- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`, `java`, RestFul, Solidity 
+- 🌱 I’m currently enrolled at **Microverse: Full Stack Software Developer**, **Alchemy University: Web 3 developer** and **ALX: Cloud Computing with AWS**
+- 🔭 I’m currently working on Frameworks such as **React** **Ruby On Rails** and programming languages like  **Ruby** and **Solidity**.
+- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails, `PostgreSQL`, `java`, RestFul, Solidity 
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
 - 🌱 Don't hesitate to say Hi
 
@@ -46,6 +46,10 @@ Here are some ideas to get you started:
    <a href="https://www.json.org/json-en.html" target="_blank">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
       alt="json"/>
+  </a>
+  <a href="https://www.w3schools.com/react/" target="_blank">
+    <img src="https://img.shields.io/badge/react-1572B6.svg?style=for-the-badge&logo=react3&logoColor=white"
+      alt="react"/>
   </a>
 </p>
 <p>

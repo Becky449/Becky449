@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://guides.rubyonrails.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Ruby on Rails-1368A6.svg?style=for-the-badge&logo=rubyonrails3&logoColor=white"
+    <img src="https://img.shields.io/badge/Ruby on Rails-800000.svg?style=for-the-badge&logo=rubyonrails3&logoColor=white"
       alt="rubyt"/>
   </a>
 </p>

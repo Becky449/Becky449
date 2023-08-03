@@ -51,6 +51,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/react-1572B6.svg?style=for-the-badge&logo=react3&logoColor=white"
       alt="react"/>
   </a>
+
+  <a href="https://guides.rubyonrails.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Ruby on Rails-1368A6.svg?style=for-the-badge&logo=rubyonrails3&logoColor=white"
+      alt="rubyt"/>
+  </a>
 </p>
 <p>
   <!--

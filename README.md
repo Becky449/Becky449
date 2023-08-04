@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m enrolled at **Microverse: Full Stack Software Developer**, **Alchemy University: Web 3 developer** and **ALX: Cloud Computing with AWS**
 - 🔭 I’m working on Frameworks such as **React** **Ruby On Rails** and programming languages like  **Ruby** and **Solidity**.
-- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails, `PostgreSQL`, `java`, RestFul, Solidity 
+- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails, `PostgreSQL`, RestFul, Solidity 
 - 👯 I’m looking to collaborate on JavaScript, React, and Rails projects.
 - 🌱 Don't hesitate to say Hi
+- ⚡ Fun fact: I love painting abstract art pieces
 
 <br />
 <h3> 👱 Visitors count </h3>

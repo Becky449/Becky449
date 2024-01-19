@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 #### Full-stack Software Developer
 
-- 🌱 I’m enrolled at **Microverse: Full Stack Software Developer**, **Alchemy University: Web 3 developer** and **ALX: Cloud Computing with AWS**
-- 🔭 I’m working on Frameworks such as **React** **Ruby On Rails** and programming languages like  **Ruby** and **Solidity**.
+- 🌱 I’m certified **Full-Stack Developer** & **AWS Cloud Practititoner**
+- 🔭 I’m working on Frameworks such as **all Javascript Frameworks** **Ruby On Rails**  and programming languages like  **Ruby** and **Solidity**.
 - 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails, `PostgreSQL`, RestFul, Solidity 
-- 👯 I’m looking to collaborate on JavaScript, React, and Rails projects.
+- 👯 I’m looking to collaborate on JavaScript, React, Next.js, React Native, and Ruby on Rails projects.
 - 🌱 Don't hesitate to say Hi
 - ⚡ Fun fact: I love painting abstract art pieces
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
   <a href="https://guides.rubyonrails.org/" target="_blank">
     <img src="https://img.shields.io/badge/Ruby on Rails-800000.svg?style=for-the-badge&logo=rubyonrails3&logoColor=white"
-      alt="rubyt"/>
+      alt="ruby"/>
   </a>
 </p>
 <p>

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m certified **Full-Stack Developer** & **AWS Cloud Practititoner**
 - 🔭 I’m working on Frameworks such as **all Javascript Frameworks** **Ruby On Rails**  and programming languages like  **Ruby** and **Solidity**.
-- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails, `PostgreSQL`, RestFul, Solidity 
+- 🌱 I Worth is with `HTML` `CSS` `JavaScript` ,`React`,`Nodejs` `Ruby`, `Ruby on Rails, `PostgreSQL`, RestFul, Solidity 
 - 👯 I’m looking to collaborate on JavaScript, React, Next.js, React Native, and Ruby on Rails projects.
 - 🌱 Don't hesitate to say Hi
 - ⚡ Fun fact: I love painting abstract art pieces
